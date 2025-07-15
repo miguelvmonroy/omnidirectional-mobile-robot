@@ -1,4 +1,4 @@
-# vehiculo-omnidireccional
+# omnidirectional mobile robot
 
 ![image](https://raw.githubusercontent.com/miguelvmonroy/vehiculo-omnidireccional/refs/heads/main/fondovehiculo.png)
 
