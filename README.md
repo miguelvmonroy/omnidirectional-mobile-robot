@@ -9,6 +9,12 @@ This code on vehiculo.ino implements control of a wheeled omnidirectional mobile
 
 ![image](https://raw.githubusercontent.com/miguelvmonroy/omnidirectional-mobile-robot/refs/heads/main/FotosVehiculo.jpg)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miguelvmonroy/omnidirectional-mobile-robot/refs/heads/main/FotosVehiculo.jpg" alt="Vehículo Omnidireccional" />
+</p>
+
+
+
 ## Tabla de Contenidos
 - [Code in Arduino](https://github.com/miguelvmonroy/omnidirectional-mobile-robot/blob/main/vehiculo.ino)
 
