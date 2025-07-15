@@ -1,6 +1,6 @@
 # vehiculo-omnidireccional
 
-![image]([https://github.com/user-attachments/assets/59239e73-0bf6-4189-9255-69a5199c9fc8](https://github.com/miguelvmonroy/vehiculo-omnidireccional/blob/main/fondovehiculo.png))
+![image](https://raw.githubusercontent.com/miguelvmonroy/vehiculo-omnidireccional/refs/heads/main/fondovehiculo.png)
 
 
 ## Tabla de Contenidos
