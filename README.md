@@ -4,7 +4,7 @@
 
 
 ## Tabla de Contenidos
-- [code in Arduino](https://github.com/miguelvmonroy/omnidirectional-mobile-robot/blob/main/vehiculo.ino)
+- [Code in Arduino](https://github.com/miguelvmonroy/omnidirectional-mobile-robot/blob/main/vehiculo.ino)
 
 🛠 Tecnologías Utilizadas
 
