@@ -13,9 +13,9 @@ This code on vehiculo.ino implements control of a wheeled omnidirectional mobile
 
 
 
-## Tabla de Contenidos
+## Table of Contents
 - [Code in Arduino](https://github.com/miguelvmonroy/omnidirectional-mobile-robot/blob/main/vehiculo.ino)
 
-🛠 Tecnologías Utilizadas
+🛠 Technologies Used
 
 C++
