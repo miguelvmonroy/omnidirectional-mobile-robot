@@ -21,4 +21,4 @@
 
 🛠 Tecnologías Utilizadas
 
-🐍 Python
+C++
