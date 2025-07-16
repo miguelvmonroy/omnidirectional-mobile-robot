@@ -1,4 +1,4 @@
-# omnidirectional mobile robot
+# omnidirectional mobile robot with Arduino
 
 ![image](https://raw.githubusercontent.com/miguelvmonroy/vehiculo-omnidireccional/refs/heads/main/fondovehiculo.png)
 
